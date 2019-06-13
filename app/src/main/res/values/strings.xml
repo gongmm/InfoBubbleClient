@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">InfoBubble</string>
+    <string name="notifyTitle">提示</string>
+    <string name="notifyMsg">当前应用缺少必要权限。\n\n请点击\"设置\"-\"权限\"-打开所需权限。</string>
+    <string name="gpsNotifyMsg">当前应用需要打开定位功能。\n\n请点击\"设置\"-\"定位服务\"-打开定位功能。</string>
+    <string name="setting">设置</string>
+    <string name="cancel">取消</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="content_example">武大，号称国立停水停电大学，除去假期，全校范围内平均每7.67天会发生一次停水。
+        \n想知道详细停水数据可戳->听说武大平均每7.7天停一次水？</string>
+</resources>
